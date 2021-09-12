@@ -1,0 +1,194 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	color: #201b2d;
+	font-size: 15px;
+	padding: 0;
+	margin: 0;
+
+}
+
+div, p, input, button, form, span, a, ul, li{
+	box-sizing: border-box;
+} 
+
+
+h1, h2, h3, h4, h5, h6{
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+}
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+
+.header {
+	background: #4EBFFE;
+background: -webkit-linear-gradient(top left, #4EBFFE, #3790D9);
+background: -moz-linear-gradient(top left, #4EBFFE, #3790D9);
+background: linear-gradient(to bottom right, #4EBFFE, #3790D9);
+padding-top: 70px;
+padding-bottom: 143px;
+color: #fff;
+}
+
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+
+.offer{
+	margin-top: 160px;
+}
+
+.tittle{
+	font-size: 37px;
+
+}
+
+p{
+	line-height: 1,6em;
+}
+
+span{
+	font-size: 50px;
+}
+
+
+
+.btm{
+	font-family: 'Montserrat', sans-serif;
+	background: #ffd429;
+	color: black;
+	display: block;
+	width: 220px;
+	padding: 20px 0;
+	text-align: center;
+	margin-top: 45px;
+	text-decoration: none;
+	font-weight: 900;
+	transition: all 0,5s ease;
+
+}
+
+.btm hover{
+	background: #926709;
+
+	
+}
+
+.intro{
+	margin-top: 50px;
+	width: 395px;
+}
+
+.desktop{
+	margin-top: 62px;
+}
+
+.learn{
+	padding-top: 108px;
+	padding-bottom: 120px;
+}
+
+.section-tittle{
+	font-size: 30px;
+	text-align: center;
+}
+
+.wrapper-two{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 70px;
+
+
+}
+
+.skill{
+	width: 297px;
+	text-align: center;
+	background: url(../img/icon1.jpg) no-repeat top;
+	padding-top: 98px;
+
+
+}
+
+.slill-title{
+	font-size: 19px;
+
+
+}
+
+.skill-text{
+	margin-top: 7px;
+	
+}
+
+.skill-two{
+	width: 268px;
+	background: url(../img/icon2.jpg) no-repeat top;
+}
+
+.skill-thee{
+	background: url(../img/icon3.jpg) no-repeat top;
+}
+
+.mail{
+	background: #ecf3f8;
+	padding-top: 102px ;
+	padding-bottom: 100px ;
+
+}
+
+.input{
+	width: 337px;
+	height: 47px;
+	border: 1px solid #bbbbbb; 
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 23px;
+	margin-left: 438px;
+	margin-bottom: 14px;
+
+
+}
+
+.button{
+	font-family: 'Montserrat', sans-serif;
+	background: #ffd429;
+	color: black;
+	display: block;
+	width: 340px;
+	padding: 20px 0;
+	text-align: center;
+	margin-top: 45px;
+	text-decoration: none;
+	font-weight: 900;
+	transition: all 0,5s ease;
+	height: 53px;
+	border: none;
+	cursor: pointer;
+	margin-left: 438px;
+	margin-top: 14px;
+
+
+}
+
+.input-one{
+	margin-top: 60px;
+
+}
+
+.footer{
+	background: #164d7a;
+	padding: 63px 0;
+
+}
+
+.credits{
+	font-size: 14px;
+	color: #fff;
+	margin: 0;
+	text-align: center;
+}
